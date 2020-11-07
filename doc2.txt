@@ -1,0 +1,5 @@
+A document is relevant if it addresses the stated information need, not because it just happens
+to contain all the words in the query. This distinction is often misunderstood in practice, because
+the information needed is not overt. But, nevertheless, an information need is present. If a user
+types python into a web search engine, they might be wanting to know where they can purchase
+a pet python.

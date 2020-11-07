@@ -1,0 +1,4 @@
+The field of information retrieval also covers supporting users in browsing or filtering document
+collections or further processing a set of retrieved documents. Given a set of documents,
+clustering is the task of coming up with a good grouping of the documents based on their
+contents.
